@@ -1,5 +1,5 @@
 # TreeSpeciesClassification
-This repostiory contains the code used in the publication "["Classification of Tree Species and Standing Dead Trees with Lidar Point Clouds using two Deep Neural Networks: PointCNN and 3DmFV-Net"](https://doi.org/10.1007/s41064-022-00200-4).
+This repostiory contains the code used in the publication [Classification of Tree Species and Standing Dead Trees with Lidar Point Clouds using two Deep Neural Networks: PointCNN and 3DmFV-Net](https://doi.org/10.1007/s41064-022-00200-4).
 ## Disclaimer
 All code was originally written for the master's thesis titled "Tree Species Classification Using Deep Neural Networks on Lidar Point Clouds", which the aforementioned paper is based on. Application of this code to other data was not in mind and a lot of things are hard coded. This was my very first project concerning deep learning. This should just be viewed as research code and nothing that should go into production. I learned a lot from it and in the future there will be more structured code and experiments.
 
